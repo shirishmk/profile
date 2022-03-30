@@ -59,4 +59,17 @@ th, td {
     border:1px solid black;
     border-style: none;
 }
-  
+ul {
+    list-style-type: circle;
+    margin: 10px;
+    padding: 2px;
+}
+ul.nest {
+    list-style-type: disc;
+    margin: 0px;
+    padding: 3px;
+}
+ul li {
+    padding: 3px;
+    margin-left: 2px;    
+}
