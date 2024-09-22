@@ -10,3 +10,4 @@
 * वैयक्तिक माहिती 
 * संपर्काविषयी माहिती 
 
+https://techcommunity.microsoft.com/t5/educator-developer-blog/create-a-resume-website-no-coding-experience-required/ba-p/3056672 
